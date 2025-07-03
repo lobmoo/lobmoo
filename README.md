@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Zoological Science student @ Huazhong Agricultural University  
-- 🔬 Focused on Embedded Systems, RTOS, C/C++
+- 🔬 Focused on Embedded Systems, Apollo, C/C++，fastDDS
 - 🚀 Passionate about open source & terminal UI
 - 🧩 Always tinkering, always learning
 
