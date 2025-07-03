@@ -5,7 +5,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lobmoo)
 
 
-![Star History](https://star-history.t9t.io/?user=lobmoo)
+
 
 
 
