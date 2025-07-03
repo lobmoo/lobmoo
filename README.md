@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobmoo)
 
 
 
@@ -21,4 +21,4 @@
 
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?lobmoo=Ashutosh00710)
