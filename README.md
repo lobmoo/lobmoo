@@ -1,4 +1,7 @@
+
+<!-- 顶部波浪效果 -->
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Wang%20Wenkai%20%7C%20lobmoo&fontAlign=40&fontAlignY=30&fontSize=36&desc=Zoological%20Science%20%40%20Huazhong Agricultural%20University&descAlign=60&descAlignY=50&animation=fadeIn"/>
+
 <p align="center">
   <a href="https://github.com/lobmoo"><img src="https://img.shields.io/badge/GitHub-lobmoo-black?logo=github&style=flat"/></a>
   <a href="mailto:1162431386@qq.com"><img src="https://img.shields.io/badge/Email-lobmoo%40qq.com-0078D4?logo=gmail&logoColor=white"/></a>
