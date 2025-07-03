@@ -1,8 +1,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobmoo)
 
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=lobmoo)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lobmoo)
 
 
-
+![Star History](https://star-history.t9t.io/?user=lobmoo)
 
 
 
